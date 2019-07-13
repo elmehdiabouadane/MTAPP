@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496342211321",
+    "firebase_url": "https://marineturquoise-39454.firebaseio.com",
+    "project_id": "marineturquoise-39454",
+    "storage_bucket": "marineturquoise-39454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496342211321:android:c9233f5ef928aaec",
+        "android_client_info": {
+          "package_name": "com.example.mdc100series"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496342211321-v4aftslijkjc7i79fonb6ecp62d969eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ7IP9Vw2YDVMpOEiLHx863TPFO_ZVS-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496342211321-v4aftslijkjc7i79fonb6ecp62d969eg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496342211321-jlc3o15908hdej92qovof9c27vn380le.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marineturquoise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
